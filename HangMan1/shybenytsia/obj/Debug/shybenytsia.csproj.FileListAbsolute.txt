@@ -1,0 +1,12 @@
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\bin\Debug\shybenytsia.exe.config
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\bin\Debug\shybenytsia.exe
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\bin\Debug\shybenytsia.pdb
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.Form1.resources
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.Form2.resources
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.Form4.resources
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.exe
+C:\Users\Admin\Source\Repos\HangMan1\shybenytsia\obj\Debug\shybenytsia.pdb
